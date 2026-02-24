@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "612944f59f600083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Facciones/Facciones.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Facciones"
-            }
-          },
-          {
             "id": "416962af49587e3d",
             "type": "leaf",
             "pinned": true,
@@ -32,9 +18,22 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "32cea1d66ad4662f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Localizaciones/Phandalin/Phandalin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Phandalin"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -359,10 +358,10 @@
             "id": "859d8d0e9982e9d2",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "graph-analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -404,9 +403,19 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "5bcd97df53d8a169",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -423,7 +432,6 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "juggl:Juggl global graph": false,
@@ -437,11 +445,21 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "416962af49587e3d",
+  "active": "efa2223e748c7f5a",
   "lastOpenFiles": [
+    "Npc's/Npc's de Phandalin",
+    "Localizaciones/Phandalin/Phandalin.md",
+    "Imágenes/Nuevo Phandalin (Sin Números).png",
+    "Imágenes/Qirathi.png",
+    "Imágenes/Noctarra.png",
+    "Imágenes/Alaini.png",
+    "Localizaciones/Leilon/Leilon.md",
+    "Localizaciones/Leilon",
+    "Localizaciones/Phandalin",
     "Campaña 2/Campaña 2.md",
     "Campaña 3/Campaña 3.md",
     "Campaña 4/Campaña 4.md",
@@ -473,13 +491,6 @@
     "Facciones/Los Vaelirr/Los Nyr’vossai/Shaetha Nyr’voss.md",
     "Facciones/Los Vaelirr/El Velo de Alabastro/Zyn’Kai Leth-Sael.md",
     "Facciones/Los Vaelirr/Los Cantos de Plata",
-    "Facciones/Los Vaelirr/El Velo de Alabastro/El Velo de Alabastro.md",
-    "Facciones/Los Vaelirr/El Velo de Alabastro",
-    "Facciones/Los Vaelirr/Los Vaelendir/Los Vaelendir.md",
-    "Facciones/Los Vaelirr/Los Vaelendir/Aren Vaelendir.md",
-    "Facciones/Los Vaelirr/Los Nyr’vossai",
-    "Imágenes/Qirathi.png",
-    "Imágenes/Alaini.png",
     "Imagenes/Alaini.png",
     "Imagenes/Qirathi.png",
     "Imagenes/Alaini.jpg",
