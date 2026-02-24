@@ -1,0 +1,488 @@
+{
+  "main": {
+    "id": "5a4f82277b127224",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc84555111f40ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612944f59f600083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Facciones/Facciones.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Facciones"
+            }
+          },
+          {
+            "id": "416962af49587e3d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff1ee9f968c63118",
+    "type": "split",
+    "children": [
+      {
+        "id": "5311d7eab95e9cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa2223e748c7f5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "00b9f3c09a16cfbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ef682ac257a73a03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "4fca20459d2dd9c0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "93949edb0df070bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9ce17e14447212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e449ba11b2e41e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "1e08301b58238922",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "7b82d201c92f0db7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "118cc0da457b83d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "650d3c7798ba4b40",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "edcf562a3a5b2470",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "47b2a5d40dba4882",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "f119e35ccd4d255f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "70f2d4f7124b63a0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "2ca885b182aa0463",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "d14e2b51b28e43a9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          },
+          {
+            "id": "c631c823f61264f4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "6600d99169701a55",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "3ba65b2bd8f7da99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "627cc191e9773156",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "1b56604ca4bf95f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "984a33e4a88955c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "8e39ea5d3c0562a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "eb0efa96db84455a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "aa42401b4bc31733",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "1806d3b294b4202d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "ea0f76f82f1eb313",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "859d8d0e9982e9d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
+            }
+          },
+          {
+            "id": "6bdced9bd30724b0",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "8e098e9373f3bb52",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "1f34d89e711de356",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "69343fbf4ede8f33",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "horizontal",
+    "width": 842.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-kanban:Create new board": false,
+      "media-extended:Open external media": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "416962af49587e3d",
+  "lastOpenFiles": [
+    "Campaña 2/Campaña 2.md",
+    "Campaña 3/Campaña 3.md",
+    "Campaña 4/Campaña 4.md",
+    "Icespire/Icespire.md",
+    "Campaña 4",
+    "Campaña 3",
+    "Campaña 2",
+    "Icespire",
+    "Localizaciones/Localizaciones.md",
+    "Localizaciones",
+    "Facciones/Facciones.md",
+    "Npc's/Npc's.md",
+    "Dioses/Dioses.md",
+    "Facciones/Los Vaelirr/Renata/Organización de Renata.md",
+    "Facciones/Los Vaelirr/Los Vhal'Shai/Los Vhal'Shai.md",
+    "Facciones/Los Vaelirr/Los Vhal'Shai/Maelvyr Shai-Leth.md",
+    "Facciones/Los Vaelirr/Renata/Renata.md",
+    "Atlas/Atlas.md",
+    "Facciones/Los Vaelirr/Renata/Organización de Renata",
+    "Facciones/Los Vaelirr/Renata",
+    "Astronomía/Los Soles/Riah.md",
+    "Astronomía/Los Soles/Oren.md",
+    "Astronomía/Los Soles/Los Soles.md",
+    "Astronomía/Las Estaciones/Las Estaciones.md",
+    "Facciones/Los Vaelirr/Khadresh Vol-Arim.md",
+    "Facciones/Los Vaelirr/Los Cantos de Plata/Los Cantos de Plata.md",
+    "Facciones/Los Vaelirr/Los Cantos de Plata/Elowen Vaer-Tal.md",
+    "Facciones/Los Vaelirr/Los Nyr’vossai/Los Nyr’vossai.md",
+    "Facciones/Los Vaelirr/Los Nyr’vossai/Shaetha Nyr’voss.md",
+    "Facciones/Los Vaelirr/El Velo de Alabastro/Zyn’Kai Leth-Sael.md",
+    "Facciones/Los Vaelirr/Los Cantos de Plata",
+    "Facciones/Los Vaelirr/El Velo de Alabastro/El Velo de Alabastro.md",
+    "Facciones/Los Vaelirr/El Velo de Alabastro",
+    "Facciones/Los Vaelirr/Los Vaelendir/Los Vaelendir.md",
+    "Facciones/Los Vaelirr/Los Vaelendir/Aren Vaelendir.md",
+    "Facciones/Los Vaelirr/Los Nyr’vossai",
+    "Imágenes/Qirathi.png",
+    "Imágenes/Alaini.png",
+    "Imagenes/Alaini.png",
+    "Imagenes/Qirathi.png",
+    "Imagenes/Alaini.jpg",
+    "Fauna y Flora/Sin título.canvas"
+  ]
+}
