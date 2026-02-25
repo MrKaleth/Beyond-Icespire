@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "32cea1d66ad4662f",
+            "id": "ab6daf90ee85f255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Localizaciones/Phandalin/Phandalin.md",
+                "file": "03_Facciones y NPCs/1_Phandalin/Gaath Thalor.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Gaath Thalor"
             }
           }
         ]
@@ -378,10 +378,10 @@
             "id": "8e098e9373f3bb52",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -413,9 +413,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "2d401408740036f8",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -449,27 +459,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "efa2223e748c7f5a",
+  "active": "416962af49587e3d",
   "lastOpenFiles": [
-    "Npc's/Npc's de Phandalin",
+    "03_Facciones y NPCs/1_Phandalin/Gaath Thalor.md",
+    "03_Facciones y NPCs/1_Phandalin/Jaezred Henlifel.md",
+    "00_Meta y Plantillas/Plantilla_NPC.md",
+    "03_Facciones y NPCs/1_Phandalin/Sildar Hallwinter.md",
+    "00_Meta y Plantillas/Guía para vista Gráfica.md",
+    "00_Meta y Plantillas/Plantilla_Mision.md",
+    "00_Meta y Plantillas/Plantilla_Localización.md",
+    "09_Reglas Homebrew",
+    "08_Imagenes y Assets",
+    "05_Misiones y Tramas/4_Contención Divina (11-13)",
+    "05_Misiones y Tramas/3_Despertar del Dragón Durmiente (9-11)",
+    "05_Misiones y Tramas/2_Ira del Señor de las Tormentas (7-9)",
+    "05_Misiones y Tramas/1_Pico Agujahelada (2-6)",
+    "04_Ubicaciones/2_Tierras Salvajes",
+    "04_Ubicaciones/1_Ciudades",
+    "03_Facciones y NPCs/6_Leilon",
+    "03_Facciones y NPCs/5_Culto de Myrkul",
     "Localizaciones/Phandalin/Phandalin.md",
     "Imágenes/Nuevo Phandalin (Sin Números).png",
     "Imágenes/Qirathi.png",
     "Imágenes/Noctarra.png",
     "Imágenes/Alaini.png",
     "Localizaciones/Leilon/Leilon.md",
-    "Localizaciones/Leilon",
-    "Localizaciones/Phandalin",
     "Campaña 2/Campaña 2.md",
     "Campaña 3/Campaña 3.md",
     "Campaña 4/Campaña 4.md",
     "Icespire/Icespire.md",
-    "Campaña 4",
-    "Campaña 3",
-    "Campaña 2",
-    "Icespire",
     "Localizaciones/Localizaciones.md",
-    "Localizaciones",
     "Facciones/Facciones.md",
     "Npc's/Npc's.md",
     "Dioses/Dioses.md",
@@ -478,19 +497,10 @@
     "Facciones/Los Vaelirr/Los Vhal'Shai/Maelvyr Shai-Leth.md",
     "Facciones/Los Vaelirr/Renata/Renata.md",
     "Atlas/Atlas.md",
-    "Facciones/Los Vaelirr/Renata/Organización de Renata",
-    "Facciones/Los Vaelirr/Renata",
     "Astronomía/Los Soles/Riah.md",
     "Astronomía/Los Soles/Oren.md",
     "Astronomía/Los Soles/Los Soles.md",
     "Astronomía/Las Estaciones/Las Estaciones.md",
-    "Facciones/Los Vaelirr/Khadresh Vol-Arim.md",
-    "Facciones/Los Vaelirr/Los Cantos de Plata/Los Cantos de Plata.md",
-    "Facciones/Los Vaelirr/Los Cantos de Plata/Elowen Vaer-Tal.md",
-    "Facciones/Los Vaelirr/Los Nyr’vossai/Los Nyr’vossai.md",
-    "Facciones/Los Vaelirr/Los Nyr’vossai/Shaetha Nyr’voss.md",
-    "Facciones/Los Vaelirr/El Velo de Alabastro/Zyn’Kai Leth-Sael.md",
-    "Facciones/Los Vaelirr/Los Cantos de Plata",
     "Imagenes/Alaini.png",
     "Imagenes/Qirathi.png",
     "Imagenes/Alaini.jpg",

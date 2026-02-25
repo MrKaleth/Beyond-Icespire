@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:\"00_Meta y Plantillas\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,59 +8,129 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Campaña 2\"  ",
+      "query": "tag:#dm_todo  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711935
       }
     },
     {
-      "query": "path:\"Campaña 3\"  ",
+      "query": "path:\"02_Los Jugadores\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16724787
       }
     },
     {
-      "query": "path:\"Campaña 4\"",
+      "query": "tag:#sesion",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15921906
       }
     },
     {
-      "query": "path:Dioses  ",
+      "query": "tag:#faccion/buscarrocas",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16755200
       }
     },
     {
-      "query": "path:Facciones  ",
+      "query": "tag:#faccion/zandro",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 13391104
       }
     },
     {
-      "query": "path:Icespire",
+      "query": "tag:#faccion/talos",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16771584
       }
     },
     {
-      "query": "path:Localizaciones  ",
+      "query": "tag:#faccion/myrkul",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 13882314
       }
     },
     {
-      "query": "path:Npc's  ",
+      "query": "tag:#faccion/culto_dragon",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 1721108
+      }
+    },
+    {
+      "query": "tag:#faccion/zhentarim",
+      "color": {
+        "a": 1,
+        "rgb": 3355443
+      }
+    },
+    {
+      "query": "tag:#faccion/alianza",
+      "color": {
+        "a": 1,
+        "rgb": 13260
+      }
+    },
+    {
+      "query": "tag:#encuentro OR tag:#trampa",
+      "color": {
+        "a": 1,
+        "rgb": 10027008
+      }
+    },
+    {
+      "query": "tag:#monstruo",
+      "color": {
+        "a": 1,
+        "rgb": 10040319
+      }
+    },
+    {
+      "query": "tag:#mision",
+      "color": {
+        "a": 1,
+        "rgb": 58879
+      }
+    },
+    {
+      "query": "tag:#item",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#ubicacion",
+      "color": {
+        "a": 1,
+        "rgb": 3394611
+      }
+    },
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 3377407
+      }
+    },
+    {
+      "query": "tag:#lore OR tag:#rumor",
+      "color": {
+        "a": 1,
+        "rgb": 13468991
+      }
+    },
+    {
+      "query": "tag:#reglas",
+      "color": {
+        "a": 1,
+        "rgb": 12720219
       }
     }
   ],
@@ -74,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.000000000000004,
+  "scale": 0.7132754626224437,
   "close": false
 }
