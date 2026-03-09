@@ -3,9 +3,9 @@
   "search": "-path:\"00_Meta y Plantillas\"  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#dm_todo  ",
@@ -40,6 +40,34 @@
       "color": {
         "a": 1,
         "rgb": 13391104
+      }
+    },
+    {
+      "query": "tag:#faccion/dariksson",
+      "color": {
+        "a": 1,
+        "rgb": 9127187
+      }
+    },
+    {
+      "query": "tag:#faccion/circo",
+      "color": {
+        "a": 1,
+        "rgb": 8388736
+      }
+    },
+    {
+      "query": "tag:#faccion/mintarn",
+      "color": {
+        "a": 1,
+        "rgb": 7372944
+      }
+    },
+    {
+      "query": "tag:#faccion/saqueadores",
+      "color": {
+        "a": 1,
+        "rgb": 11393254
       }
     },
     {
@@ -106,21 +134,21 @@
       }
     },
     {
-      "query": "tag:#ubicacion",
+      "query": "tag:#npc",
       "color": {
         "a": 1,
         "rgb": 3394611
       }
     },
     {
-      "query": "tag:#npc",
+      "query": "tag:#ubicacion",
       "color": {
         "a": 1,
         "rgb": 3377407
       }
     },
     {
-      "query": "tag:#lore OR tag:#rumor",
+      "query": "tag:#mecanica OR tag:#lore OR tag:#rumor",
       "color": {
         "a": 1,
         "rgb": 13468991
@@ -144,6 +172,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7132754626224437,
+  "scale": 0.7514342322277581,
   "close": false
 }
