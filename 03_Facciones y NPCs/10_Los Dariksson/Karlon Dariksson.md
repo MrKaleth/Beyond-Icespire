@@ -5,3 +5,5 @@ tags:
   - faccion/dariksson
   - ubicacion/asentamiento/phandalin
 ---
+
+![[Karlon Dariksson.png]]

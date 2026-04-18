@@ -5,3 +5,4 @@ tags:
   - faccion/zandro
   - ubicacion/asentamiento/zorzulas_rest
 ---
+![[Zandro Buscarrocas.png]]

@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "bf97c0cab07ebcae",
-        "type": "tabs",
-        "dimension": 52.73504273504274,
-        "children": [
-          {
-            "id": "e47139b9ad8c1301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Facciones y NPCs/8_Mercenarios de Mintarn/Ulric Montellier.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ulric Montellier"
-            }
-          }
-        ]
-      },
-      {
         "id": "92b8805339d6b6f6",
         "type": "tabs",
-        "dimension": 47.26495726495726,
         "children": [
           {
             "id": "acc1ce40d5c40a00",
@@ -73,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Invern",
+                "query": "Hall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 401.5
   },
   "right": {
     "id": "93949edb0df070bf",
@@ -127,9 +105,146 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "35c67690aacd8ca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_Ubicaciones/1_Ciudades/1.1_Phandalin/Phandalin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Phandalin"
+            }
+          },
+          {
+            "id": "930eadda23cc820a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04_Ubicaciones/1_Ciudades/1.1_Phandalin/Phandalin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Phandalin"
+            }
+          },
+          {
+            "id": "408d00d990212640",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5968dc205509509d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "56a58b10805cedea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Jaezred Henlifel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Jaezred Henlifel"
+            }
+          },
+          {
+            "id": "9737bc1a23cd886f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "a8f47c629e52889b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "507e729f84960a33",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "2ae6c03053a7c8a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "fee1097e90e0cd8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "0d425278889f6e2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -146,7 +261,6 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "juggl:Juggl global graph": false,
@@ -160,55 +274,58 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "acc1ce40d5c40a00",
+  "active": "0d425278889f6e2c",
   "lastOpenFiles": [
-    "03_Facciones y NPCs/8_Mercenarios de Mintarn/Ulric Montellier.md",
-    "03_Facciones y NPCs/8_Mercenarios de Mintarn/Elric Yorgal.md",
-    "03_Facciones y NPCs/8_Mercenarios de Mintarn/Eira Phalx.md",
+    "01_Diario de Campaña/1_Sesiones/Sesión 2 - No puede ser tan obvio....md",
+    "01_Diario de Campaña/0_Preparación/Preparación Sesión 2.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Gaath Thalor.md",
+    "02_Los Jugadores/Garilius.md",
+    "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Jaezred Henlifel.md",
+    "04_Ubicaciones/1_Ciudades/1.1_Phandalin/Phandalin.md",
+    "Sin título.md",
+    "01_Diario de Campaña/1_Sesiones/Sesión 1 - Fuego y Sombras en el Circo.md",
     "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Syleen Wintermoon.md",
-    "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Runa Vokdottir.md",
-    "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Dobin y Jabarl Noreth.md",
-    "03_Facciones y NPCs/1_Phandalin/Jaezred Henlifel.md",
-    "03_Facciones y NPCs/1_Phandalin/Gaath Thalor.md",
-    "08_Imágenes y Recursos/Jaezred Henlifel.png",
-    "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Brakrek.md",
-    "03_Facciones y NPCs/1_Phandalin/Adabra Gwynn.md",
-    "04_Ubicaciones/1_Ciudades/Phandalin.md",
-    "03_Facciones y NPCs/1_Phandalin/Sildar Hallwinter.md",
-    "03_Facciones y NPCs/1_Phandalin/Alana Hallwinter.md",
-    "07_Objetos y Tesoros/Nota de Suicidio de Vértigo.md",
-    "03_Facciones y NPCs/9_Circo de Sasha/Vértigo Varis.md",
-    "00_Meta y Plantillas/Plantilla_NPC.md",
-    "05_Misiones y Tramas/1_Pico Agujahelada (2-6)/Misión - Traer a Adabra Gwynn.md",
-    "05_Misiones y Tramas/1_Pico Agujahelada (2-6)/Misión - El Trapecista Ahorcado.md",
-    "04_Ubicaciones/2_Tierras Salvajes/La Colina del Resentimiento.md",
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Alana Hallwinter.md",
     "05_Misiones y Tramas/1_Pico Agujahelada (2-6)/Mecánica - Maldición de Pilikia.md",
-    "04_Ubicaciones/1_Ciudades/Nuncainvierno.md",
-    "04_Ubicaciones/1_Ciudades/Leilon.md",
-    "04_Ubicaciones/1_Ciudades/Circo Luz Estelar.md",
-    "03_Facciones y NPCs/12_Círculo de las Estrellas de Bocapeñasco/Zaerith Thalor.md",
+    "08_Imágenes y Recursos/Zandro Buscarrocas.png",
+    "08_Imágenes y Recursos/Zaerith Thalor.png",
+    "08_Imágenes y Recursos/Karlon Dariksson.png",
+    "08_Imágenes y Recursos/Jaezred Henlifel.png",
+    "08_Imágenes y Recursos/Gaath Thalor.png",
+    "08_Imágenes y Recursos/Rosalie Ularan Mortus.png",
+    "07_Objetos y Tesoros/Nota de Suicidio de Vértigo.md",
+    "08_Imágenes y Recursos/Fheralai Stormsworn.png",
+    "03_Facciones y NPCs/6_Leilon/Lyssandra Margaster.md",
+    "03_Facciones y NPCs/12_Enclave Dragón del Amanecer/Zaerith Thalor.md",
+    "03_Facciones y NPCs/9_Circo Luz Estelar/Mozo del circo.md",
+    "02_Los Jugadores/Arthur.md",
+    "03_Facciones y NPCs/8_Mercenarios de Mintarn/Eira Phalanx.md",
+    "03_Facciones y NPCs/11_Nuncainvierno/Corvus Margaster.md",
+    "03_Facciones y NPCs/5_Culto de Myrkul/Rosalie Ularan Mortus. La Rosa Negra.md",
+    "03_Facciones y NPCs/4_Culto de Talos/Fheralai Stormsworn.md",
+    "03_Facciones y NPCs/4_Culto de Talos/Velleen Firecrow.md",
+    "08_Imágenes y Recursos/Jaezred Henlifel 1.png",
     "03_Facciones y NPCs/10_Los Dariksson/Karlon Dariksson.md",
-    "03_Facciones y NPCs/11_Nuncainvierno/Noble de Nuncainvierno de Arthur.md",
-    "03_Facciones y NPCs/12_Círculo de las Estrellas de Bocapeñasco",
-    "03_Facciones y NPCs/11_Nuncainvierno",
-    "03_Facciones y NPCs/10_Los Dariksson",
-    "04_Ubicaciones/3_Mazmorras y Ruinas",
-    "03_Facciones y NPCs/9_Circo de Sasha",
-    "03_Facciones y NPCs/8_Mercenarios de Mintarn",
-    "03_Facciones y NPCs/7_Saqueadores de Piedra Fría",
-    "08_Imágenes y Recursos",
-    "07_Objetos y Tesoros",
-    "06_Bestiario y Encuentros",
+    "03_Facciones y NPCs/3_Zandro y Zorzula/Zandro Buscarrocas.md",
+    "03_Facciones y NPCs/5_Culto de Myrkul/Argus Skeel.md",
+    "08_Imágenes y Recursos/Mapa de Phandalin.png",
+    "03_Facciones y NPCs/9_Circo Luz Estelar/Vértigo Varis.md",
+    "04_Ubicaciones/1_Ciudades/1.1_Phandalin/1.1.3_Hostelería, Religión y Extramuros",
+    "04_Ubicaciones/1_Ciudades/1.1_Phandalin/1.1.2_Industria Minera y Construcción",
+    "04_Ubicaciones/1_Ciudades/1.1_Phandalin/1.1.1_Autoridad, Residencias y Defensa",
+    "04_Ubicaciones/1_Ciudades/1.1_Phandalin",
+    "04_Ubicaciones/2_Tierras Salvajes/La Colina del Resentimiento.md",
+    "03_Facciones y NPCs/1_Phandalin/1.7_Aventureros, Mineros y Buscavidas",
+    "03_Facciones y NPCs/1_Phandalin/1.6_Religión, Herboristas y Granjas",
+    "03_Facciones y NPCs/1_Phandalin/1.5_Hostelería y Refugios Mineros",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios",
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia",
     "Imágenes/Nuevo Phandalin (Sin Números).png",
-    "Imágenes/Qirathi.png",
-    "Imágenes/Noctarra.png",
-    "Imágenes/Alaini.png",
-    "Imagenes/Alaini.png",
-    "Imagenes/Qirathi.png",
-    "Imagenes/Alaini.jpg",
     "Fauna y Flora/Sin título.canvas"
   ]
 }

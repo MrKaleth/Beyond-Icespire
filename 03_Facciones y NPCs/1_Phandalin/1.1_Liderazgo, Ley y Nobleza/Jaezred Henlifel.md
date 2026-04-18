@@ -9,6 +9,8 @@ tags:
 
 > _"¿Cree que vender cecina es mi meta? Por favor. El comercio es el motor que me dará el apellido que este pueblo necesita. La Mansión Tresendar será el primer escudo de armas legítimo de la nueva Phandalin."_
 
+![[Jaezred Henlifel.png]]
+
 **Resumen:** Elfo Oscuro (Drow). Dueño de la [[Mansión Tresendar]]. Empresario ambicioso cuyo objetivo final es un título nobiliario legal. **Vínculo clave:** Hermano de [[Nythalyn Henlifel]] | **Ubicación:** Charcutería / [[Mansión Tresendar]].
 
 ---

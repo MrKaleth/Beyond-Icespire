@@ -29,14 +29,14 @@ tags:
     
 - **Pragmático**: Aceptó testificar en contra de [[Arthur]] solo porque este se lo suplicó para protegerlo, pero vive con la amargura de haber traicionado públicamente su vínculo.
     
-- **Protector**: Junto con [[Eira Phalx]], forma un núcleo de resistencia y profesionalismo dentro de los mercenarios, cuidando las espaldas de aquellos en quienes confía.
+- **Protector**: Junto con [[Eira Phalanx]], forma un núcleo de resistencia y profesionalismo dentro de los mercenarios, cuidando las espaldas de aquellos en quienes confía.
     
 
 ### 🔗 Relaciones y Conexiones
 
 - **[[Arthur]]**: Su mejor amigo. La culpa por lo ocurrido en Nuncainvierno define gran parte de su actitud actual; espera el día en que pueda compensar esa traición forzada.
     
-- **[[Eira Phalx]]**: Su compañera actual de puesto. Comparten el secreto de la trampa del noble y el peso de haber sobrevivido a costa de la libertad de su amigo.
+- **[[Eira Phalanx]]**: Su compañera actual de puesto. Comparten el secreto de la trampa del noble y el peso de haber sobrevivido a costa de la libertad de su amigo.
     
 - **[[Elric Yorgal]]**: Su antiguo mentor. Formó parte del grupo de jóvenes mercenarios que Elric lideró y envió a Nuncainvierno en el 1489 DR.
     

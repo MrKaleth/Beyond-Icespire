@@ -1,9 +1,7 @@
 ---
-aliases: [Vértigo, Varis]
+aliases: [Chico, Joven, Mozo]
 tags:
-  - dm_todo
   - npc
   - faccion/circo
-  - faccion/myrkul
   - ubicacion/asentamiento/phandalin
 ---

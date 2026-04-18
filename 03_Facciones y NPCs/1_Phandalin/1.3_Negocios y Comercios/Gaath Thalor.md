@@ -10,6 +10,8 @@ tags:
 
 > _"La piedra es paciente, pero mi cuerpo... bueno, el tiempo pasa incluso para los que hemos estado petrificados. Ahora mi mayor batalla es contra un zafiro rebelde o contra el precio del metal de Zandro."_
 
+![[Gaath Thalor.png]]
+
 **Resumen:** Githzerai. Héroe retirado y joyero. Sosegado, algo descuidado físicamente y muy volcado en su familia y amigos. **Vínculo clave:** Hermano de [[Zaerith Thalor]] | **Ubicación:** Joyería de [[Phandalin]].
 
 ---

@@ -4,10 +4,11 @@ tags:
   - ubicacion/asentamiento/phandalin
   - faccion/alianza
 ---
+
 # 🏙️ Phandalin (1496 CV)
 
-> 🖼️ **Mapa / Ilustración del Asentamiento**
-> ![[nombre_de_tu_imagen_del_mapa_aqui.png]] *(Arrastra aquí la imagen)*
+
+![[Mapa de Phandalin.png]] 
 
 > *"El eco de los picos golpeando la piedra y el traqueteo de los carros blindados resuenan antes incluso de que crucéis las nuevas murallas de mampostería. Lo que hace cinco años era un pueblo embarrado de techos hundidos, es ahora una urbe minera bulliciosa, gris y próspera. El olor a hollín de la forja se mezcla con el humo de las chimeneas, y patrullas de milicianos armados vigilan a los forasteros desde las almenas. Phandalin ya no es una presa fácil; es una fortaleza que huele a oro y paranoia."*
 
@@ -114,7 +115,7 @@ _(Organizados por su rol social. Todos los datos reflejan su estado en el año 1
 
 #### 🏛️ El Liderazgo, la Ley y la Nobleza Local
 
-- **[[Jaezred]] (Drow, ~120 años):** Héroe local y nuevo "noble". De piel obsidiana y cabello blanco inmaculado. Viste ropas de una elegancia exótica. Es el dueño de la opulenta Mansión Tresendar y la exclusiva Charcutería del pueblo.
+- **[[Jaezred Henlifel]] (Drow, ~120 años):** Héroe local y nuevo "noble". De piel obsidiana y cabello blanco inmaculado. Viste ropas de una elegancia exótica. Es el dueño de la opulenta Mansión Tresendar y la exclusiva Charcutería del pueblo.
     
 - **[[Sildar Hallwinter]] (Humano, 55 años):** Alcalde de Phandalin. Pelo grisáceo y rostro surcado de cicatrices. Viste armadura de mallas práctica bajo su manto de alcalde. Paranoico con la seguridad.
     
@@ -157,6 +158,8 @@ _(Bajo el mando directo de la Capitana Alana Hallwinter. Esta fuerza se encarga 
 - **[[Mervin Tartesh]] (Humano, 35 años) y [[Hovnar Tartesh]] (Humano, 33 años):** Tasador y Banquero. Mervin tiene miopía y los dedos siempre negros de tinta. Hovnar es delgado, pálido y muy asustadizo.
     
 - **[[Linene Graywind]] (Humana, 40 años):** Propietaria del Escudo de León. De cejas fruncidas y lengua afilada, siempre lleva su característica capa verde oscuro.
+
+- [[Velleen Firecrow]] **(Elfa, 155 años):** Espía de [[Fheralai Stormsworn]] en Phandalin. Trabaja en Escudo de León.
     
 - **[[Minghee Graywind]] (Humana, 20 años):** Hija de Linene. Rebelde, de pelo corto alborotado y brazos fuertes de cargar cajas.
     
@@ -256,7 +259,7 @@ _(Bajo el mando directo de la Capitana Alana Hallwinter. Esta fuerza se encarga 
     
 - **[[El Barrio Extramuros (Zandro y Buscarrocas)]]:** * **Torik (Enano, 60 años):** Capataz rudo de barba trenzada llena de polvo gris.
     
-    - **Bram (Humano, 20) y Lyra (Humana, 22):** Operarios representativos. Están siempre exhaustos, tosiendo, con la piel agrietada y ropas apenas remendadas.
+- **Bram (Humano, 20) y Lyra (Humana, 22):** Operarios representativos. Están siempre exhaustos, tosiendo, con la piel agrietada y ropas apenas remendadas.
         
 - **[[Karthim Humblejack]], [[Verno]] y [[Wallin]] (Humanos, 30-40 años):** Mineros clásicos intramuros. Hombres de músculos tensos, miradas cansadas y pulmones castigados.
     

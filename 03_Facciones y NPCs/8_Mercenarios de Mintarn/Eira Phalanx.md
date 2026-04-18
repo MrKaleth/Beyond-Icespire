@@ -1,5 +1,5 @@
 ---
-aliases: [Eira, Eira Phalx]
+aliases: [Eira, Eira Phalanx]
 tags:
   - npc
   - faccion/mintarn

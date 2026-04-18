@@ -36,7 +36,7 @@ tags:
 
 - **[[Arthur]]**: Su protegido más brillante. Lo crió prácticamente desde los ocho años, pasando de ser un recadero a un guerrero de élite bajo su tutela.
     
-- **[[Eira Phalx]] y [[Ulric Montellier]]**: Formaron parte de su grupo de jóvenes mercenarios más prometedores enviado a Nuncainvierno en 1489 DR.
+- **[[Eira Phalanx]] y [[Ulric Montellier]]**: Formaron parte de su grupo de jóvenes mercenarios más prometedores enviado a Nuncainvierno en 1489 DR.
     
 - **Mercenarios de Mintarn**: Es un líder respetado dentro de la facción, encargado de asegurar contratos importantes como los de Dagult Neverember.
     
