@@ -105,10 +105,10 @@
           "Nota de Varis"
         ],
         "tags": [
-          "lore",
-          "faccion/circo",
-          "ubicacion/asentamiento/phandalin",
-          "faccion/myrkul"
+          "#lore",
+          "#faccion/circo",
+          "#ubicacion/asentamiento/phandalin",
+          "#faccion/myrkul"
         ]
       }
     },
@@ -365,9 +365,9 @@
           "La Carga de Pilikia"
         ],
         "tags": [
-          "mecanica",
-          "lore",
-          "faccion/myrkul"
+          "#mecanica",
+          "#lore",
+          "#faccion/myrkul"
         ]
       }
     },
@@ -408,10 +408,10 @@
           "Misión del Circo"
         ],
         "tags": [
-          "mision",
-          "faccion/circo",
-          "ubicacion/asentamiento/circo_luz_estelar",
-          "dm_todo"
+          "#mision",
+          "#faccion/circo",
+          "#ubicacion/asentamiento/circo_luz_estelar",
+          "#dm_todo"
         ]
       }
     },
@@ -495,127 +495,194 @@
           "Ulric Montellier"
         ],
         "tags": [
-          "npc",
-          "faccion/mintarn",
-          "ubicacion/asentamiento/neverwinter"
+          "#npc",
+          "#faccion/mintarn",
+          "#ubicacion/asentamiento/neverwinter",
+          "#rumor"
         ]
       }
     },
     "03_Facciones y NPCs/8_Mercenarios de Mintarn/Elric Yorgal.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 477,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.59,
+      "characterCount": 3145,
+      "nonWhitespaceCharacterCount": 2560,
+      "newlineCount": 53,
+      "readingTimeInMinutes": 1.8,
+      "linkCount": 8,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Elric",
+        "Elric Yorgal"
+      ],
       "createdDate": 1773055369726,
       "modifiedDate": 1773319389756,
       "sizeInBytes": 3311,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.59,
+        "wordCount": 477,
+        "characterCount": 3145,
+        "nonWhitespaceCharacterCount": 2560,
+        "newlineCount": 53
+      },
+      "frontmatter": {
+        "aliases": [
+          "Elric",
+          "Elric Yorgal"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/mintarn",
+          "#ubicacion/asentamiento/mintarn",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/8_Mercenarios de Mintarn/Eira Phalanx.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 461,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.5366666666666666,
+      "characterCount": 3248,
+      "nonWhitespaceCharacterCount": 2673,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 1.739622641509434,
+      "linkCount": 10,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Eira",
+        "Eira Phalanx"
+      ],
       "createdDate": 1773055369726,
       "modifiedDate": 1773319385361,
       "sizeInBytes": 3430,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.5366666666666666,
+        "wordCount": 461,
+        "characterCount": 3248,
+        "nonWhitespaceCharacterCount": 2673,
+        "newlineCount": 55
+      },
+      "frontmatter": {
+        "aliases": [
+          "Eira",
+          "Eira Phalanx"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/mintarn",
+          "#ubicacion/asentamiento/neverwinter",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/9_Circo Luz Estelar/Sasha Callister.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 471,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.57,
+      "characterCount": 3127,
+      "nonWhitespaceCharacterCount": 2559,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 1.7773584905660378,
+      "linkCount": 10,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Sasha",
+        "Directora Callister",
+        "La Dueña del Circo"
+      ],
       "createdDate": 1773053185428,
       "modifiedDate": 1773072109849,
       "sizeInBytes": 3312,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.57,
+        "wordCount": 471,
+        "characterCount": 3127,
+        "nonWhitespaceCharacterCount": 2559,
+        "newlineCount": 46
+      },
+      "frontmatter": {
+        "aliases": [
+          "Sasha",
+          "Directora Callister",
+          "La Dueña del Circo"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/circo",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/9_Circo Luz Estelar/Vértigo Varis.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 445,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.4833333333333334,
+      "characterCount": 3050,
+      "nonWhitespaceCharacterCount": 2483,
+      "newlineCount": 57,
+      "readingTimeInMinutes": 1.679245283018868,
+      "linkCount": 6,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Vértigo",
+        "Varis",
+        "El Trapecista"
+      ],
       "createdDate": 1773053185428,
       "modifiedDate": 1773244924253,
       "sizeInBytes": 3262,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.4833333333333334,
+        "wordCount": 445,
+        "characterCount": 3050,
+        "nonWhitespaceCharacterCount": 2483,
+        "newlineCount": 57
+      },
+      "frontmatter": {
+        "aliases": [
+          "Vértigo",
+          "Varis",
+          "El Trapecista"
+        ],
+        "tags": [
+          "#dm_todo",
+          "#npc",
+          "#faccion/circo",
+          "#faccion/myrkul",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/9_Circo Luz Estelar/Mozo del circo.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -623,188 +690,302 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Chico",
+        "Joven",
+        "Mozo"
+      ],
       "createdDate": 1773073347373,
       "modifiedDate": 1773073401631,
       "sizeInBytes": 106,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Chico",
+          "Joven",
+          "Mozo"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/circo",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "03_Facciones y NPCs/6_Leilon/Lyssandra Margaster.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 665,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 2.216666666666667,
+      "characterCount": 4344,
+      "nonWhitespaceCharacterCount": 3588,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 2.509433962264151,
+      "linkCount": 5,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Lyssandra",
+        "Lyssandra Margaster",
+        "Supervisora de Leilon"
+      ],
       "createdDate": 1773315676103,
       "modifiedDate": 1773317214014,
       "sizeInBytes": 4560,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 2.216666666666667,
+        "wordCount": 665,
+        "characterCount": 4344,
+        "nonWhitespaceCharacterCount": 3588,
+        "newlineCount": 44
+      },
+      "frontmatter": {
+        "aliases": [
+          "Lyssandra",
+          "Lyssandra Margaster",
+          "Supervisora de Leilon"
+        ],
+        "tags": [
+          "#npc",
+          "#dm_todo",
+          "#faccion/aguasprofundas",
+          "#ubicacion/asentamiento/leilon",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Runa Vokdottir.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 396,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.32,
+      "characterCount": 2798,
+      "nonWhitespaceCharacterCount": 2304,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 1.4943396226415093,
+      "linkCount": 8,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Runa la Ojo de Halcón",
+        "Runa Vokdottir"
+      ],
       "createdDate": 1772643840573,
       "modifiedDate": 1773069034007,
       "sizeInBytes": 3001,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.32,
+        "wordCount": 396,
+        "characterCount": 2798,
+        "nonWhitespaceCharacterCount": 2304,
+        "newlineCount": 51
+      },
+      "frontmatter": {
+        "aliases": [
+          "Runa la Ojo de Halcón",
+          "Runa Vokdottir"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/saqueadores",
+          "#ubicacion/mazmorra/bastion_agujahelada",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Syleen Wintermoon.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 442,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.4733333333333334,
+      "characterCount": 3070,
+      "nonWhitespaceCharacterCount": 2508,
+      "newlineCount": 57,
+      "readingTimeInMinutes": 1.6679245283018869,
+      "linkCount": 12,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Syleen",
+        "Jefa Syleen",
+        "Líder de los Piedra Fría",
+        "Syleen Wintermoon"
+      ],
       "createdDate": 1772643840573,
       "modifiedDate": 1773069131026,
       "sizeInBytes": 3305,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.4733333333333334,
+        "wordCount": 442,
+        "characterCount": 3070,
+        "nonWhitespaceCharacterCount": 2508,
+        "newlineCount": 57
+      },
+      "frontmatter": {
+        "aliases": [
+          "Syleen",
+          "Jefa Syleen",
+          "Líder de los Piedra Fría",
+          "Syleen Wintermoon"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/saqueadores",
+          "#ubicacion/mazmorra/bastion_agujahelada",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Dobin y Jabarl Noreth.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 365,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.2166666666666666,
+      "characterCount": 2574,
+      "nonWhitespaceCharacterCount": 2142,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 1.3773584905660377,
+      "linkCount": 8,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Los Gemelos Noreth",
+        "Dobin y Jabarl"
+      ],
       "createdDate": 1772643840573,
       "modifiedDate": 1773068748963,
       "sizeInBytes": 2767,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.2166666666666666,
+        "wordCount": 365,
+        "characterCount": 2574,
+        "nonWhitespaceCharacterCount": 2142,
+        "newlineCount": 44
+      },
+      "frontmatter": {
+        "aliases": [
+          "Los Gemelos Noreth",
+          "Dobin y Jabarl"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/saqueadores",
+          "#ubicacion/mazmorra/bastion_agujahelada",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Brakrek.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 347,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.1566666666666667,
+      "characterCount": 2361,
+      "nonWhitespaceCharacterCount": 1973,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 1.3094339622641509,
+      "linkCount": 8,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Brakrek",
+        "El Rompehuesos"
+      ],
       "createdDate": 1772643840573,
       "modifiedDate": 1773067387768,
       "sizeInBytes": 2531,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.1566666666666667,
+        "wordCount": 347,
+        "characterCount": 2361,
+        "nonWhitespaceCharacterCount": 1973,
+        "newlineCount": 34
+      },
+      "frontmatter": {
+        "aliases": [
+          "Brakrek",
+          "El Rompehuesos"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/saqueadores",
+          "#ubicacion/mazmorra/bastion_agujahelada",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/3_Zandro y Zorzula/Zandro Buscarrocas.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 28,
+      "nonWhitespaceCharacterCount": 26,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "embedCount": 1,
+      "aliases": [
+        "Zandro",
+        "Zandro Buscarrocas",
+        "Héroe de Phandalin"
+      ],
       "createdDate": 1773054096868,
       "modifiedDate": 1773302167524,
       "sizeInBytes": 168,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 28,
+        "nonWhitespaceCharacterCount": 26,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "aliases": [
+          "Zandro",
+          "Zandro Buscarrocas",
+          "Héroe de Phandalin"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/zandro",
+          "#ubicacion/asentamiento/zorzulas_rest"
+        ]
       }
     },
     "03_Facciones y NPCs/4_Culto de Talos/Velleen Firecrow.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -812,323 +993,543 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Velleen",
+        "Firecrow",
+        "La Elfa del Escudo"
+      ],
       "createdDate": 1773304562651,
-      "modifiedDate": 1773304562651,
-      "sizeInBytes": 0,
+      "modifiedDate": 1776763697144,
+      "sizeInBytes": 125,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Velleen",
+          "Firecrow",
+          "La Elfa del Escudo"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/talos",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "03_Facciones y NPCs/4_Culto de Talos/Fheralai Stormsworn.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1299,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 4.33,
+      "characterCount": 8342,
+      "nonWhitespaceCharacterCount": 6943,
+      "newlineCount": 59,
+      "readingTimeInMinutes": 4.90188679245283,
+      "linkCount": 6,
+      "embedCount": 1,
+      "aliases": [
+        "Fheralai",
+        "Fheralai Stormsworn",
+        "Fheralai Juratormentas",
+        "La Hija del Huracán"
+      ],
       "createdDate": 1773304708180,
       "modifiedDate": 1773305713799,
       "sizeInBytes": 8663,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 4.33,
+        "wordCount": 1299,
+        "characterCount": 8342,
+        "nonWhitespaceCharacterCount": 6943,
+        "newlineCount": 59
+      },
+      "frontmatter": {
+        "aliases": [
+          "Fheralai",
+          "Fheralai Stormsworn",
+          "Fheralai Juratormentas",
+          "La Hija del Huracán"
+        ],
+        "tags": [
+          "#npc",
+          "#dm_todo",
+          "#faccion/talos",
+          "#ubicacion/mazmorra/acantilados_del_trueno"
+        ]
       }
     },
     "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Alana Hallwinter.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 437,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.4566666666666668,
+      "characterCount": 2834,
+      "nonWhitespaceCharacterCount": 2290,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 1.649056603773585,
+      "linkCount": 10,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Capitana Alana",
+        "Alana"
+      ],
       "createdDate": 1773054080832,
       "modifiedDate": 1773060750261,
       "sizeInBytes": 2992,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.4566666666666668,
+        "wordCount": 437,
+        "characterCount": 2834,
+        "nonWhitespaceCharacterCount": 2290,
+        "newlineCount": 49
+      },
+      "frontmatter": {
+        "aliases": [
+          "Capitana Alana",
+          "Alana"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/alianza",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Jaezred Henlifel.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 385,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 1.2833333333333334,
+      "characterCount": 2743,
+      "nonWhitespaceCharacterCount": 2295,
+      "newlineCount": 40,
+      "readingTimeInMinutes": 1.4528301886792452,
+      "linkCount": 9,
+      "embedCount": 1,
+      "aliases": [
+        "Jaezred",
+        "Jaezred Henlifel",
+        "Jaez",
+        "Héroe de Phandalin",
+        "El Charcutero",
+        "Señor de Tresendar"
+      ],
       "createdDate": 1772560266547,
       "modifiedDate": 1773302224928,
       "sizeInBytes": 2972,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.2833333333333334,
+        "wordCount": 385,
+        "characterCount": 2743,
+        "nonWhitespaceCharacterCount": 2295,
+        "newlineCount": 40
+      },
+      "frontmatter": {
+        "aliases": [
+          "Jaezred",
+          "Jaezred Henlifel",
+          "Jaez",
+          "Héroe de Phandalin",
+          "El Charcutero",
+          "Señor de Tresendar"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/ninguna",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Sildar Hallwinter.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 357,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.19,
+      "characterCount": 2439,
+      "nonWhitespaceCharacterCount": 2025,
+      "newlineCount": 41,
+      "readingTimeInMinutes": 1.3471698113207546,
+      "linkCount": 10,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Sildar",
+        "Alcalde Sildar",
+        "Alcalde de Phandalin"
+      ],
       "createdDate": 1772560266548,
       "modifiedDate": 1773060215172,
       "sizeInBytes": 2612,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.19,
+        "wordCount": 357,
+        "characterCount": 2439,
+        "nonWhitespaceCharacterCount": 2025,
+        "newlineCount": 41
+      },
+      "frontmatter": {
+        "aliases": [
+          "Sildar",
+          "Alcalde Sildar",
+          "Alcalde de Phandalin"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/alianza",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/1_Phandalin/1.6_Religión, Herboristas y Granjas/Adabra Gwynn.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 458,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.5266666666666666,
+      "characterCount": 3024,
+      "nonWhitespaceCharacterCount": 2467,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 1.728301886792453,
+      "linkCount": 6,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Adabra"
+      ],
       "createdDate": 1773053205138,
       "modifiedDate": 1773065329313,
       "sizeInBytes": 3169,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.5266666666666666,
+        "wordCount": 458,
+        "characterCount": 3024,
+        "nonWhitespaceCharacterCount": 2467,
+        "newlineCount": 46
+      },
+      "frontmatter": {
+        "aliases": [
+          "Adabra"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/ninguna",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Gaath Thalor.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 414,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 1.38,
+      "characterCount": 2756,
+      "nonWhitespaceCharacterCount": 2274,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 1.5622641509433963,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": [
+        "Gaath",
+        "El Joyero",
+        "Héroe de Phandalin"
+      ],
       "createdDate": 1772560266546,
       "modifiedDate": 1773302189637,
       "sizeInBytes": 2927,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.38,
+        "wordCount": 414,
+        "characterCount": 2756,
+        "nonWhitespaceCharacterCount": 2274,
+        "newlineCount": 42
+      },
+      "frontmatter": {
+        "aliases": [
+          "Gaath",
+          "El Joyero",
+          "Héroe de Phandalin"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/ninguna",
+          "#ubicacion/asentamiento/phandalin",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/5_Culto de Myrkul/Rosalie Ularan Mortus. La Rosa Negra.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1167,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 3.89,
+      "characterCount": 7467,
+      "nonWhitespaceCharacterCount": 6183,
+      "newlineCount": 66,
+      "readingTimeInMinutes": 4.40377358490566,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": [
+        "Rosalie Mortis",
+        "La Rosa Negra",
+        "Ularan Mortis",
+        "Sumo Sacerdotisa"
+      ],
       "createdDate": 1773244482916,
       "modifiedDate": 1773306299973,
       "sizeInBytes": 7764,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 3.89,
+        "wordCount": 1167,
+        "characterCount": 7467,
+        "nonWhitespaceCharacterCount": 6183,
+        "newlineCount": 66
+      },
+      "frontmatter": {
+        "aliases": [
+          "Rosalie Mortis",
+          "La Rosa Negra",
+          "Ularan Mortis",
+          "Sumo Sacerdotisa"
+        ],
+        "tags": [
+          "#npc",
+          "#dm_todo",
+          "#faccion/myrkul",
+          "#ubicacion/mazmorra/pantano_hombres_muertos",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/5_Culto de Myrkul/Argus Skeel.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 595,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 1.9833333333333334,
+      "characterCount": 3978,
+      "nonWhitespaceCharacterCount": 3276,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 2.2452830188679247,
+      "linkCount": 6,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Argus",
+        "Argus Skeel",
+        "El Engendro de Leilon",
+        "Asesino de Vértigo",
+        "El Cultista Infiltrado"
+      ],
       "createdDate": 1773054143778,
       "modifiedDate": 1773245106928,
       "sizeInBytes": 4239,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.9833333333333334,
+        "wordCount": 595,
+        "characterCount": 3978,
+        "nonWhitespaceCharacterCount": 3276,
+        "newlineCount": 55
+      },
+      "frontmatter": {
+        "aliases": [
+          "Argus",
+          "Argus Skeel",
+          "El Engendro de Leilon",
+          "Asesino de Vértigo",
+          "El Cultista Infiltrado"
+        ],
+        "tags": [
+          "#dm_todo",
+          "#npc",
+          "#faccion/myrkul",
+          "#ubicacion/asentamiento/leilon",
+          "#rumor"
+        ]
       }
     },
     "03_Facciones y NPCs/10_Los Dariksson/Karlon Dariksson.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 2,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 24,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0.007547169811320755,
       "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "embedCount": 1,
+      "aliases": [
+        "Karlon",
+        "Karlon Dariksson",
+        "Héroe de Phandalin",
+        "Caballero de la Cabreja",
+        "Caballero de la Carnabra"
+      ],
       "createdDate": 1773054096868,
       "modifiedDate": 1773302182551,
       "sizeInBytes": 215,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 27,
+        "nonWhitespaceCharacterCount": 24,
+        "newlineCount": 3
+      },
+      "frontmatter": {
+        "aliases": [
+          "Karlon",
+          "Karlon Dariksson",
+          "Héroe de Phandalin",
+          "Caballero de la Cabreja",
+          "Caballero de la Carnabra"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/dariksson",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "03_Facciones y NPCs/12_Enclave Dragón del Amanecer/Zaerith Thalor.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 873,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 2.91,
+      "characterCount": 5822,
+      "nonWhitespaceCharacterCount": 4804,
+      "newlineCount": 69,
+      "readingTimeInMinutes": 3.2943396226415094,
+      "linkCount": 12,
+      "embedCount": 1,
+      "aliases": [
+        "Zaerith",
+        "Zaerith Thalor",
+        "Heroína de Phandalin",
+        "Druida de las Estrellas"
+      ],
       "createdDate": 1773057900082,
       "modifiedDate": 1773301514650,
       "sizeInBytes": 6099,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 2.91,
+        "wordCount": 873,
+        "characterCount": 5822,
+        "nonWhitespaceCharacterCount": 4804,
+        "newlineCount": 69
+      },
+      "frontmatter": {
+        "aliases": [
+          "Zaerith",
+          "Zaerith Thalor",
+          "Heroína de Phandalin",
+          "Druida de las Estrellas"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/enclave_dragon_amanecer",
+          "#ubicacion/asentamiento/bocapeñasco",
+          "#rumor",
+          "#lore"
+        ]
       }
     },
     "03_Facciones y NPCs/11_Nuncainvierno/Corvus Margaster.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 781,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 2.6033333333333335,
+      "characterCount": 5016,
+      "nonWhitespaceCharacterCount": 4127,
+      "newlineCount": 57,
+      "readingTimeInMinutes": 2.9471698113207547,
+      "linkCount": 4,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Lord Corvus Margaster",
+        "El Noble de Nuncainvierno",
+        "Casa Margaster"
+      ],
       "createdDate": 1773055829897,
       "modifiedDate": 1773315882327,
       "sizeInBytes": 5299,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 2.6033333333333335,
+        "wordCount": 781,
+        "characterCount": 5016,
+        "nonWhitespaceCharacterCount": 4127,
+        "newlineCount": 57
+      },
+      "frontmatter": {
+        "aliases": [
+          "Lord Corvus Margaster",
+          "El Noble de Nuncainvierno",
+          "Casa Margaster"
+        ],
+        "tags": [
+          "#dm_todo",
+          "#npc",
+          "#faccion/nuncainvierno",
+          "#faccion/aguasprofundas",
+          "#ubicacion/asentamiento/nuncainvierno"
+        ]
       }
     },
     "02_Los Jugadores/Ágata.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -1136,53 +1537,78 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Candela"
+      ],
       "createdDate": 1772565731409,
       "modifiedDate": 1773057405398,
       "sizeInBytes": 117,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Candela"
+        ],
+        "tags": [
+          "#pj",
+          "#faccion/dariksson",
+          "#faccion/myrkul",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "02_Los Jugadores/Arthur.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 1434,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "wordGoal": null,
+      "pageCount": 4.78,
+      "characterCount": 8480,
+      "nonWhitespaceCharacterCount": 7014,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 5.411320754716981,
+      "linkCount": 4,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Juan"
+      ],
       "createdDate": 1772565731409,
       "modifiedDate": 1773319415963,
       "sizeInBytes": 8728,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 4.78,
+        "wordCount": 1434,
+        "characterCount": 8480,
+        "nonWhitespaceCharacterCount": 7014,
+        "newlineCount": 30
+      },
+      "frontmatter": {
+        "aliases": [
+          "Juan"
+        ],
+        "tags": [
+          "#pj",
+          "#faccion/mintarn",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "02_Los Jugadores/Pilikia.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -1190,26 +1616,39 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Nico"
+      ],
       "createdDate": 1772565731409,
       "modifiedDate": 1773057693119,
       "sizeInBytes": 110,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Nico"
+        ],
+        "tags": [
+          "#pj",
+          "#faccion/circo",
+          "#faccion/myrkul",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "02_Los Jugadores/Garilius.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -1217,26 +1656,39 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Ángel"
+      ],
       "createdDate": 1772565731409,
       "modifiedDate": 1773057657532,
       "sizeInBytes": 117,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Ángel"
+        ],
+        "tags": [
+          "#pj",
+          "#faccion/saqueadores",
+          "#faccion/circo",
+          "#ubicacion/asentamiento/phandalin"
+        ]
       }
     },
     "04_Ubicaciones/1_Ciudades/Leilon.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -1244,53 +1696,80 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "Leilon",
+        "Puerto de Leilon"
+      ],
       "createdDate": 1773055851738,
       "modifiedDate": 1773058764062,
       "sizeInBytes": 123,
       "sessionStart": {
-        "noteCount": 0,
+        "noteCount": 1,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Leilon",
+          "Puerto de Leilon"
+        ],
+        "tags": [
+          "#ubicacion/asentamiento/leilon",
+          "#faccion/alianza",
+          "#campaña/leilon"
+        ]
       }
     },
     "04_Ubicaciones/1_Ciudades/1.1_Phandalin/Phandalin.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 2880,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 9.6,
+      "characterCount": 20505,
+      "nonWhitespaceCharacterCount": 16913,
+      "newlineCount": 279,
+      "readingTimeInMinutes": 10.867924528301886,
+      "linkCount": 112,
+      "embedCount": 1,
+      "aliases": [
+        "Nuevo Phandalin",
+        "Phandalin"
+      ],
       "createdDate": 1772645209557,
-      "modifiedDate": 1775150898325,
-      "sizeInBytes": 20489,
+      "modifiedDate": 1776764570094,
+      "sizeInBytes": 20897,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 9.463333333333333,
+        "wordCount": 2839,
+        "characterCount": 20097,
+        "nonWhitespaceCharacterCount": 16546,
+        "newlineCount": 279
+      },
+      "frontmatter": {
+        "aliases": [
+          "Nuevo Phandalin",
+          "Phandalin"
+        ],
+        "tags": [
+          "ubicacion/asentamiento/phandalin",
+          "faccion/alianza"
+        ]
       }
     },
     "04_Ubicaciones/1_Ciudades/Circo Luz Estelar.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -1298,10 +1777,392 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
+      "aliases": [
+        "El Circo",
+        "Caravana de Sasha",
+        "Luz Estelar"
+      ],
       "createdDate": 1773054166199,
       "modifiedDate": 1773058739716,
       "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "El Circo",
+          "Caravana de Sasha",
+          "Luz Estelar"
+        ],
+        "tags": [
+          "#ubicacion/asentamiento/circo_luz_estelar",
+          "#faccion/circo"
+        ]
+      }
+    },
+    "04_Ubicaciones/1_Ciudades/Nuncainvierno.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Neverwinter",
+        "Ciudad de las Manos Hábiles",
+        "Joya del Norte"
+      ],
+      "createdDate": 1773055851738,
+      "modifiedDate": 1773058780999,
+      "sizeInBytes": 141,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Neverwinter",
+          "Ciudad de las Manos Hábiles",
+          "Joya del Norte"
+        ],
+        "tags": [
+          "#ubicacion/asentamiento/neverwinter",
+          "#faccion/alianza"
+        ]
+      }
+    },
+    "04_Ubicaciones/2_Tierras Salvajes/La Colina del Resentimiento.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Colina del Resentimiento",
+        "El Risco de la Ira"
+      ],
+      "createdDate": 1773053329542,
+      "modifiedDate": 1773059029533,
+      "sizeInBytes": 118,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Colina del Resentimiento",
+          "El Risco de la Ira"
+        ],
+        "tags": [
+          "#ubicacion/geografia/colina_del_resentimiento"
+        ]
+      }
+    },
+    "00_Meta y Plantillas/Plantilla_NPC.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 285,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.95,
+      "characterCount": 2055,
+      "nonWhitespaceCharacterCount": 1726,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 1.0754716981132075,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": [
+        "Apodo",
+        "Título o Cargo"
+      ],
+      "createdDate": 1772560266544,
+      "modifiedDate": 1772905516237,
+      "sizeInBytes": 2370,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.95,
+        "wordCount": 285,
+        "characterCount": 2055,
+        "nonWhitespaceCharacterCount": 1726,
+        "newlineCount": 34
+      },
+      "frontmatter": {
+        "aliases": [
+          "Apodo",
+          "Título o Cargo"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/elige_una_opcion",
+          "#ubicacion/elige_una_opcion"
+        ]
+      }
+    },
+    "00_Meta y Plantillas/Plantilla_Asentamiento.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 457,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5233333333333334,
+      "characterCount": 3439,
+      "nonWhitespaceCharacterCount": 2874,
+      "newlineCount": 60,
+      "readingTimeInMinutes": 1.7245283018867925,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": [
+        "Nombre Alternativo",
+        "Apodo de la Ciudad"
+      ],
+      "createdDate": 1772560266543,
+      "modifiedDate": 1772645489724,
+      "sizeInBytes": 3675,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5233333333333334,
+        "wordCount": 457,
+        "characterCount": 3439,
+        "nonWhitespaceCharacterCount": 2874,
+        "newlineCount": 60
+      },
+      "frontmatter": {
+        "aliases": [
+          "Nombre Alternativo",
+          "Apodo de la Ciudad"
+        ],
+        "tags": [
+          "#ubicacion/asentamiento",
+          "#faccion/facción_gobernante"
+        ]
+      }
+    },
+    "00_Meta y Plantillas/Plantilla_Mision.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 282,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.94,
+      "characterCount": 1900,
+      "nonWhitespaceCharacterCount": 1524,
+      "newlineCount": 38,
+      "readingTimeInMinutes": 1.0641509433962264,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "Nombre Corto",
+        "Código de Misión"
+      ],
+      "createdDate": 1772560266544,
+      "modifiedDate": 1772560266544,
+      "sizeInBytes": 2115,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.94,
+        "wordCount": 282,
+        "characterCount": 1900,
+        "nonWhitespaceCharacterCount": 1524,
+        "newlineCount": 38
+      },
+      "frontmatter": {
+        "aliases": [
+          "Nombre Corto",
+          "Código de Misión"
+        ],
+        "tags": [
+          "#mision/activa",
+          "#campaña/elige_una"
+        ]
+      }
+    },
+    "00_Meta y Plantillas/Guía para vista Gráfica.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 702,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.34,
+      "characterCount": 6982,
+      "nonWhitespaceCharacterCount": 5289,
+      "newlineCount": 93,
+      "readingTimeInMinutes": 2.6490566037735848,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1772560266541,
+      "modifiedDate": 1773056754684,
+      "sizeInBytes": 7140,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.34,
+        "wordCount": 702,
+        "characterCount": 6982,
+        "nonWhitespaceCharacterCount": 5289,
+        "newlineCount": 93
+      }
+    },
+    "01_Diario de Campaña/0_Preparación/Preparación Sesión 2.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 755,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5166666666666666,
+      "characterCount": 4721,
+      "nonWhitespaceCharacterCount": 3810,
+      "newlineCount": 60,
+      "readingTimeInMinutes": 2.849056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1773245161499,
+      "modifiedDate": 1773246662433,
+      "sizeInBytes": 4802,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5166666666666666,
+        "wordCount": 755,
+        "characterCount": 4721,
+        "nonWhitespaceCharacterCount": 3810,
+        "newlineCount": 60
+      }
+    },
+    "01_Diario de Campaña/1_Sesiones/Sesión 2 - No puede ser tan obvio....md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 316,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0533333333333332,
+      "characterCount": 1933,
+      "nonWhitespaceCharacterCount": 1612,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 1.1924528301886792,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": [
+        "Sesión 2",
+        "Sesión 02"
+      ],
+      "createdDate": 1773650215320,
+      "modifiedDate": 1774779723634,
+      "sizeInBytes": 2095,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0533333333333332,
+        "wordCount": 316,
+        "characterCount": 1933,
+        "nonWhitespaceCharacterCount": 1612,
+        "newlineCount": 9
+      },
+      "frontmatter": {
+        "aliases": [
+          "Sesión 2",
+          "Sesión 02"
+        ],
+        "tags": [
+          "#sesion",
+          "#ubicacion/asentamiento/phandalin",
+          "#faccion/circo",
+          "#faccion/myrkul"
+        ]
+      }
+    },
+    "01_Diario de Campaña/1_Sesiones/Sesión 1 - Fuego y Sombras en el Circo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 519,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.73,
+      "characterCount": 3461,
+      "nonWhitespaceCharacterCount": 2932,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 1.9584905660377359,
+      "linkCount": 42,
+      "embedCount": 0,
+      "aliases": [
+        "Sesión 1",
+        "Sesión 01"
+      ],
+      "createdDate": 1773053158923,
+      "modifiedDate": 1773652429619,
+      "sizeInBytes": 3629,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.73,
+        "wordCount": 519,
+        "characterCount": 3461,
+        "nonWhitespaceCharacterCount": 2932,
+        "newlineCount": 18
+      },
+      "frontmatter": {
+        "aliases": [
+          "Sesión 1",
+          "Sesión 01"
+        ],
+        "tags": [
+          "#sesion",
+          "#ubicacion/asentamiento/phandalin",
+          "#faccion/circo",
+          "#faccion/myrkul"
+        ]
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Ilsa Wisemantle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 161,
+      "nonWhitespaceCharacterCount": 136,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776761072017,
+      "modifiedDate": 1776761331028,
+      "sizeInBytes": 161,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1311,13 +2172,13 @@
         "newlineCount": 0
       }
     },
-    "04_Ubicaciones/1_Ciudades/Nuncainvierno.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Jessup.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
+      "noteCount": 1,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
+      "wordGoal": null,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
@@ -1325,9 +2186,93 @@
       "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773055851738,
-      "modifiedDate": 1773058780999,
+      "aliases": [
+        "Jessup",
+        "El Viejo Jessup"
+      ],
+      "createdDate": 1776761395680,
+      "modifiedDate": 1776761610566,
+      "sizeInBytes": 113,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Jessup",
+          "El Viejo Jessup"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/ninguna",
+          "#ubicacion/asentamiento/phandalin"
+        ]
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Dareth Grint.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [
+        "Dareth",
+        "Grint",
+        "El Contable"
+      ],
+      "createdDate": 1776761392737,
+      "modifiedDate": 1776761604481,
+      "sizeInBytes": 116,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      },
+      "frontmatter": {
+        "aliases": [
+          "Dareth",
+          "Grint",
+          "El Contable"
+        ],
+        "tags": [
+          "#npc",
+          "#faccion/alianza",
+          "#ubicacion/asentamiento/phandalin"
+        ]
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Harbin Wester.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 120,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776761619060,
+      "modifiedDate": 1776761622432,
       "sizeInBytes": 141,
       "sessionStart": {
         "noteCount": 0,
@@ -1338,24 +2283,24 @@
         "newlineCount": 0
       }
     },
-    "04_Ubicaciones/2_Tierras Salvajes/La Colina del Resentimiento.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Vera la Vieja.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 103,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773053329542,
-      "modifiedDate": 1773059029533,
-      "sizeInBytes": 118,
+      "aliases": null,
+      "createdDate": 1776761756937,
+      "modifiedDate": 1776761778270,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1365,24 +2310,24 @@
         "newlineCount": 0
       }
     },
-    "00_Meta y Plantillas/Plantilla_NPC.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Bran el Mudo.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 103,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772560266544,
-      "modifiedDate": 1772905516237,
-      "sizeInBytes": 2370,
+      "aliases": null,
+      "createdDate": 1776761793219,
+      "modifiedDate": 1776761812456,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1392,24 +2337,24 @@
         "newlineCount": 0
       }
     },
-    "00_Meta y Plantillas/Plantilla_Asentamiento.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Hali.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 107,
+      "nonWhitespaceCharacterCount": 89,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772560266543,
-      "modifiedDate": 1772645489724,
-      "sizeInBytes": 3675,
+      "aliases": null,
+      "createdDate": 1776761795142,
+      "modifiedDate": 1776761817603,
+      "sizeInBytes": 108,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1419,24 +2364,24 @@
         "newlineCount": 0
       }
     },
-    "00_Meta y Plantillas/Plantilla_Mision.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Kaelen Vane.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 106,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772560266544,
-      "modifiedDate": 1772560266544,
-      "sizeInBytes": 2115,
+      "aliases": null,
+      "createdDate": 1776761741782,
+      "modifiedDate": 1776761745073,
+      "sizeInBytes": 126,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1446,24 +2391,24 @@
         "newlineCount": 0
       }
     },
-    "00_Meta y Plantillas/Guía para vista Gráfica.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Kara Tormenta.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 104,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1772560266541,
-      "modifiedDate": 1773056754684,
-      "sizeInBytes": 7140,
+      "aliases": null,
+      "createdDate": 1776761791027,
+      "modifiedDate": 1776761806630,
+      "sizeInBytes": 124,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1473,24 +2418,24 @@
         "newlineCount": 0
       }
     },
-    "01_Diario de Campaña/0_Preparación/Preparación Sesión 2.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Pike.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 108,
+      "nonWhitespaceCharacterCount": 90,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773245161499,
-      "modifiedDate": 1773246662433,
-      "sizeInBytes": 4802,
+      "aliases": null,
+      "createdDate": 1776761783811,
+      "modifiedDate": 1776761803029,
+      "sizeInBytes": 108,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1500,24 +2445,24 @@
         "newlineCount": 0
       }
     },
-    "01_Diario de Campaña/1_Sesiones/Sesión 2 - No puede ser tan obvio....md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Reed Greenbottle.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 123,
+      "nonWhitespaceCharacterCount": 103,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773650215320,
-      "modifiedDate": 1774779723634,
-      "sizeInBytes": 2095,
+      "aliases": null,
+      "createdDate": 1776761754447,
+      "modifiedDate": 1776761772381,
+      "sizeInBytes": 123,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1527,24 +2472,591 @@
         "newlineCount": 0
       }
     },
-    "01_Diario de Campaña/1_Sesiones/Sesión 1 - Fuego y Sombras en el Circo.md": {
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Thokk.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 111,
+      "nonWhitespaceCharacterCount": 93,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03018867924528302,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1773053158923,
-      "modifiedDate": 1773652429619,
-      "sizeInBytes": 3629,
+      "aliases": null,
+      "createdDate": 1776761751660,
+      "modifiedDate": 1776761766833,
+      "sizeInBytes": 111,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Thistle y Ander.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 112,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763854864,
+      "modifiedDate": 1776763884702,
+      "sizeInBytes": 133,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Durn, Vagner y Milequeoast.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 137,
+      "nonWhitespaceCharacterCount": 115,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763732860,
+      "modifiedDate": 1776763736952,
+      "sizeInBytes": 137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Elmar Barthen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 116,
+      "nonWhitespaceCharacterCount": 97,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763749783,
+      "modifiedDate": 1776763815503,
+      "sizeInBytes": 116,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Halia Thornton.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 135,
+      "nonWhitespaceCharacterCount": 114,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763531344,
+      "modifiedDate": 1776763583901,
+      "sizeInBytes": 135,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Hilda y descendencia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 137,
+      "nonWhitespaceCharacterCount": 115,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763817758,
+      "modifiedDate": 1776763835169,
+      "sizeInBytes": 137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Linene Graywind.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 106,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763538918,
+      "modifiedDate": 1776763689588,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Los Tartesh.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 112,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763617622,
+      "modifiedDate": 1776763633637,
+      "sizeInBytes": 133,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Minghee Graywind.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 97,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763549390,
+      "modifiedDate": 1776763705387,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Nalpina Goldstone.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 121,
+      "nonWhitespaceCharacterCount": 102,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776763858023,
+      "modifiedDate": 1776763919425,
+      "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Wramble.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 109,
+      "nonWhitespaceCharacterCount": 91,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764583235,
+      "modifiedDate": 1776764597280,
+      "sizeInBytes": 109,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Aida Cambar, Cathlette Camber y Oskar Ninebough.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 130,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764367394,
+      "modifiedDate": 1776764369052,
+      "sizeInBytes": 153,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Freda, Lynia y Jestine.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 106,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764297376,
+      "modifiedDate": 1776764299808,
+      "sizeInBytes": 126,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Hester, Vamendor y Durk.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 107,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764440351,
+      "modifiedDate": 1776764464894,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Hobb, Jullle y aprendices.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 112,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764248471,
+      "modifiedDate": 1776764250847,
+      "sizeInBytes": 133,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Kebble, Suss, Lucian y Gracier.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 134,
+      "nonWhitespaceCharacterCount": 113,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764409007,
+      "modifiedDate": 1776764421535,
+      "sizeInBytes": 134,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Lanar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 137,
+      "nonWhitespaceCharacterCount": 115,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764524756,
+      "modifiedDate": 1776764535088,
+      "sizeInBytes": 137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Los Dendrar.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 145,
+      "nonWhitespaceCharacterCount": 122,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764210174,
+      "modifiedDate": 1776764218640,
+      "sizeInBytes": 145,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Maxon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 110,
+      "nonWhitespaceCharacterCount": 92,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764357449,
+      "modifiedDate": 1776764359911,
+      "sizeInBytes": 110,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Maza Fieldsalder.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 124,
+      "nonWhitespaceCharacterCount": 104,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764234468,
+      "modifiedDate": 1776764241877,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Thorn.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 108,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764527205,
+      "modifiedDate": 1776764539937,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Winneth Maybell.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 108,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1776764580895,
+      "modifiedDate": 1776764591538,
+      "sizeInBytes": 128,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

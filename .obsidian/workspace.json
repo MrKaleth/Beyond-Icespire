@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "2949ed5b9333f533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Ubicaciones/1_Ciudades/1.1_Phandalin/Phandalin.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Phandalin"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hall",
+                "query": "line",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -278,47 +293,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0d425278889f6e2c",
+  "active": "2949ed5b9333f533",
   "lastOpenFiles": [
-    "01_Diario de Campaña/1_Sesiones/Sesión 2 - No puede ser tan obvio....md",
-    "01_Diario de Campaña/0_Preparación/Preparación Sesión 2.md",
-    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Gaath Thalor.md",
-    "02_Los Jugadores/Garilius.md",
-    "03_Facciones y NPCs/1_Phandalin/1.1_Liderazgo, Ley y Nobleza/Jaezred Henlifel.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Aida Cambar, Cathlette Camber y Oskar Ninebough.md",
     "04_Ubicaciones/1_Ciudades/1.1_Phandalin/Phandalin.md",
-    "Sin título.md",
-    "01_Diario de Campaña/1_Sesiones/Sesión 1 - Fuego y Sombras en el Circo.md",
-    "03_Facciones y NPCs/7_Saqueadores de Piedra Fría/Syleen Wintermoon.md",
-    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Alana Hallwinter.md",
-    "05_Misiones y Tramas/1_Pico Agujahelada (2-6)/Mecánica - Maldición de Pilikia.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Wramble.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Winneth Maybell.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Thorn.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Lanar.md",
+    "03_Facciones y NPCs/1_Phandalin/1.2_Milicia/Bran el Mudo.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Maza Fieldsalder.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Maxon.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Kebble, Suss, Lucian y Gracier.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Hester, Vamendor y Durk.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Hobb, Jullle y aprendices.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Freda, Lynia y Jestine.md",
+    "03_Facciones y NPCs/1_Phandalin/1.4_Artesanos y Constructores/Los Dendrar.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Halia Thornton.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Mervin Tartesh.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Ander.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Nalpina Goldstone.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Thistle y Ander.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Hilda y descendencia.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Elmar Barthen.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Durn, Vagner y Milequeoast.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Minghee Graywind.md",
+    "03_Facciones y NPCs/4_Culto de Talos/Velleen Firecrow.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Linene Graywind.md",
+    "03_Facciones y NPCs/1_Phandalin/1.3_Negocios y Comercios/Los Tartesh.md",
     "08_Imágenes y Recursos/Zandro Buscarrocas.png",
     "08_Imágenes y Recursos/Zaerith Thalor.png",
     "08_Imágenes y Recursos/Karlon Dariksson.png",
     "08_Imágenes y Recursos/Jaezred Henlifel.png",
     "08_Imágenes y Recursos/Gaath Thalor.png",
     "08_Imágenes y Recursos/Rosalie Ularan Mortus.png",
-    "07_Objetos y Tesoros/Nota de Suicidio de Vértigo.md",
     "08_Imágenes y Recursos/Fheralai Stormsworn.png",
-    "03_Facciones y NPCs/6_Leilon/Lyssandra Margaster.md",
-    "03_Facciones y NPCs/12_Enclave Dragón del Amanecer/Zaerith Thalor.md",
-    "03_Facciones y NPCs/9_Circo Luz Estelar/Mozo del circo.md",
-    "02_Los Jugadores/Arthur.md",
-    "03_Facciones y NPCs/8_Mercenarios de Mintarn/Eira Phalanx.md",
-    "03_Facciones y NPCs/11_Nuncainvierno/Corvus Margaster.md",
-    "03_Facciones y NPCs/5_Culto de Myrkul/Rosalie Ularan Mortus. La Rosa Negra.md",
-    "03_Facciones y NPCs/4_Culto de Talos/Fheralai Stormsworn.md",
-    "03_Facciones y NPCs/4_Culto de Talos/Velleen Firecrow.md",
     "08_Imágenes y Recursos/Jaezred Henlifel 1.png",
-    "03_Facciones y NPCs/10_Los Dariksson/Karlon Dariksson.md",
-    "03_Facciones y NPCs/3_Zandro y Zorzula/Zandro Buscarrocas.md",
-    "03_Facciones y NPCs/5_Culto de Myrkul/Argus Skeel.md",
     "08_Imágenes y Recursos/Mapa de Phandalin.png",
-    "03_Facciones y NPCs/9_Circo Luz Estelar/Vértigo Varis.md",
     "04_Ubicaciones/1_Ciudades/1.1_Phandalin/1.1.3_Hostelería, Religión y Extramuros",
     "04_Ubicaciones/1_Ciudades/1.1_Phandalin/1.1.2_Industria Minera y Construcción",
     "04_Ubicaciones/1_Ciudades/1.1_Phandalin/1.1.1_Autoridad, Residencias y Defensa",
     "04_Ubicaciones/1_Ciudades/1.1_Phandalin",
-    "04_Ubicaciones/2_Tierras Salvajes/La Colina del Resentimiento.md",
     "03_Facciones y NPCs/1_Phandalin/1.7_Aventureros, Mineros y Buscavidas",
     "03_Facciones y NPCs/1_Phandalin/1.6_Religión, Herboristas y Granjas",
     "03_Facciones y NPCs/1_Phandalin/1.5_Hostelería y Refugios Mineros",

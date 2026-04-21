@@ -22,7 +22,7 @@ tags:
 * **Leyes Locales Destacadas:** * Toque de queda estricto al anochecer (las puertas de la muralla se cierran).
   * Prohibido desenvainar armas dentro de las tabernas (multas severas).
 * **Facciones con Presencia:**
-  * `#faccion/alianza`: Invernio tiene fuertes intereses aquí y consejeros vigilando la inversión.
+  * `#faccion/alianza`: Nuncainvierno tiene fuertes intereses aquí y consejeros vigilando la inversión.
   * `#faccion/zhentarim`: Controlan el mercado negro y gran parte del mineral a través de la Maestra de Intercambio.
   * `#faccion/buscarrocas`: Tienen un enorme peso económico indirecto por las minas de Zandro.
 
@@ -119,7 +119,7 @@ _(Organizados por su rol social. Todos los datos reflejan su estado en el año 1
     
 - **[[Sildar Hallwinter]] (Humano, 55 años):** Alcalde de Phandalin. Pelo grisáceo y rostro surcado de cicatrices. Viste armadura de mallas práctica bajo su manto de alcalde. Paranoico con la seguridad.
     
-- **[[Ilsa Wisemantle]] (Humana, 40 años):** Enlace de Invernio. Mujer impecable, de modales exquisitos, siempre vestida con sedas pesadas que contrastan con el barro del pueblo.
+- **[[Ilsa Wisemantle]] (Humana, 40 años):** Enlace de Nuncainvierno. Mujer impecable, de modales exquisitos, siempre vestida con sedas pesadas que contrastan con el barro del pueblo.
     
 - **[[Dareth Grint]] (Humano, 35 años):** Burócrata y contable. Un hombrecillo nervioso, bajito y pálido, que suda constantemente.
     
@@ -133,7 +133,7 @@ _(Bajo el mando directo de la Capitana Alana Hallwinter. Esta fuerza se encarga 
 
 - **[[Alana Hallwinter]] (Humana, 28 años):** _Capitana de la Milicia_. (Ya listada en Liderazgo). Es la mente táctica y el motor de la guardia.
     
-- **[[Kaelen Vane]] "Cicatriz" (Humano, 45 años):** _Teniente y Segundo al mando_. Veterano de las guerras de Invernio que Sildar trajo para entrenar a los novatos. Tiene una quemadura que le cruza media cara, es parco en palabras y su voz suena como grava arrastrándose.
+- **[[Kaelen Vane]] "Cicatriz" (Humano, 45 años):** _Teniente y Segundo al mando_. Veterano de las guerras de Nuncainvierno que Sildar trajo para entrenar a los novatos. Tiene una quemadura que le cruza media cara, es parco en palabras y su voz suena como grava arrastrándose.
     
 - **[[Thokk]] (Semiorco, 32 años):** _Sargento de la Puerta Sur_. Una mole de músculos verde grisáceo con un casco abollado. Es famoso por ser inamovible; una vez detuvo a un carro de bueyes desbocado simplemente plantándose delante. Es rudo pero tiene un código de honor estricto.
     
@@ -151,11 +151,11 @@ _(Bajo el mando directo de la Capitana Alana Hallwinter. Esta fuerza se encarga 
 
 #### 💰 Los Grandes Negocios y Comercios
 
-- **[[Gaath]] (Githzerai, ~45 años):** Héroe local y maestro joyero. Alto, delgado, de piel cetrina y rostro anguloso. Su mirada es analítica y serena. Dirige la Joyería de Gaath para la nueva élite.
+- **[[Gaath Thalor|Gaath]] (Githzerai, ~45 años):** Héroe local y maestro joyero. Alto, delgado, de piel cetrina y rostro anguloso. Su mirada es analítica y serena. Dirige la Joyería de Gaath para la nueva élite.
     
 - **[[Halia Thornton]] (Humana, 40 años):** Maestra del Intercambio (Zhentarim). Mujer de rostro afilado, sonrisa fría y calculadora, siempre impecablemente vestida.
     
-- **[[Mervin Tartesh]] (Humano, 35 años) y [[Hovnar Tartesh]] (Humano, 33 años):** Tasador y Banquero. Mervin tiene miopía y los dedos siempre negros de tinta. Hovnar es delgado, pálido y muy asustadizo.
+- **[[Los Tartesh|Mervin Tartesh]] (Humano, 35 años) y [[Los Tartesh|Hovnar Tartesh]] (Humano, 33 años):** Tasador y Banquero. Mervin tiene miopía y los dedos siempre negros de tinta. Hovnar es delgado, pálido y muy asustadizo.
     
 - **[[Linene Graywind]] (Humana, 40 años):** Propietaria del Escudo de León. De cejas fruncidas y lengua afilada, siempre lleva su característica capa verde oscuro.
 
@@ -163,38 +163,38 @@ _(Bajo el mando directo de la Capitana Alana Hallwinter. Esta fuerza se encarga 
     
 - **[[Minghee Graywind]] (Humana, 20 años):** Hija de Linene. Rebelde, de pelo corto alborotado y brazos fuertes de cargar cajas.
     
-- **Durn, Vagner y Milequeoast (Humanos, 20-30 años):** Mozos de almacén de Linene. Hombres grandes, de pocas palabras y espaldas anchas.
+- **[[Durn, Vagner y Milequeoast]] (Humanos, 20-30 años):** Mozos de almacén de Linene. Hombres grandes, de pocas palabras y espaldas anchas.
     
 - **[[Elmar Barthen]] (Humano, 55 años):** Dueño de Provisiones Barthen. Delgado, casi calvo, de actitud pragmática.
     
-- **Hilda (Humana, 50 años) y sus hijos:** Esposa de Elmar (robusta y sonriente). Sus hijos son _Ariel (20)_, _Aerie (18)_, _Adele (16)_ y _Athene (14)_, todos aprendiendo el negocio familiar.
+- **[[Hilda y descendencia|Hilda]] (Humana, 50 años) y sus hijos:** Esposa de Elmar (robusta y sonriente). Sus hijos son _Ariel (20)_, _Aerie (18)_, _Adele (16)_ y _Athene (14)_, todos aprendiendo el negocio familiar.
     
-- **[[Ander]] (Humano, 25 años) y [[Thistle]] (Mediano, 30 años):** Dependientes de Barthen. Ander es un contable meticuloso con gafas redondas; Thistle es un mediano vivaracho, de manos rápidas y gran charlatanería. Estan apoyados por los jornaleros _Petrov, Jurg y Riley_.
+- **[[Thistle y Ander|Ander]] (Humano, 25 años) y [[Thistle y Ander|Thistle]] (Mediano, 30 años):** Dependientes de Barthen. Ander es un contable meticuloso con gafas redondas; Thistle es un mediano vivaracho, de manos rápidas y gran charlatanería. Estan apoyados por los jornaleros _Petrov, Jurg y Riley_.
     
 - **[[Nalpina Goldstone]] (Enana, 50 años):** Buhonera ambulante. Muy ruidosa, de trenzas pelirrojas y ropas chillonas cubiertas de baratijas.
     
 
 #### ⚒️ Artesanos y Constructores
 
-- **[[Mirna Dendrar]] (Humana, 45 años):** Matriarca ebanista. De mirada dura y pelo recogido; el tiempo y la tragedia la han curtido. Sus hijos **Nars (20)** y **Nilsa (21)** son fuertes y siempre tienen astillas en la ropa. Las menores son _Moira (14)_ y _Thessel (12)_.
+- **[[Los Dendrar|Mirna Dendrar]] (Humana, 45 años):** Matriarca ebanista. De mirada dura y pelo recogido; el tiempo y la tragedia la han curtido. Sus hijos **Nars (20)** y **Nilsa (21)** son fuertes y siempre tienen astillas en la ropa. Las menores son _Moira (14)_ y _Thessel (12)_.
     
 - **[[Maza Fieldsalder]] (Enana, 30 años):** Herrera Principal. Hombros anchos, brazos musculosos, siempre cubierta de hollín y sudor.
     
-- **[[Hobb]] (Humano, 45 años) y Jullle (Humana, 42 años):** Herrero secundario (un hombre barrigudo y jovial) y su esposa pragmática. Entrenan a cuatro aprendices musculosos (_Zendo, Yvette, Xerkan, Wesley_).
+- **[[Hobb, Jullle y aprendices|Hobb]] (Humano, 45 años) y Jullle (Humana, 42 años):** Herrero secundario (un hombre barrigudo y jovial) y su esposa pragmática. Entrenan a cuatro aprendices musculosos (_Zendo, Yvette, Xerkan, Wesley_).
     
-- **[[Freda]] (Humana, 35 años):** Tejedora. De dedos ágiles, viste ropas de colores vivos para contrastar con el gris minero. Le ayudan las jóvenes _Lynia_ y _Jestine_.
+- **[[Freda, Lynia y Jestine|Freda]] (Humana, 35 años):** Tejedora. De dedos ágiles, viste ropas de colores vivos para contrastar con el gris minero. Le ayudan las jóvenes _Lynia_ y _Jestine_.
     
 - **[[Maxon]] (Humano, 40 años):** Mampostero principal. Un tipo rudo, calvo y con la piel siempre cubierta de polvo blanco.
     
-- **[[Aida Cambar]] (40), [[Cathlette Camber]] (45) y [[Oskar Ninebough]] (45):** Arquitectos de las murallas (Humanos). Gente fornida, de manos encallecidas y planos bajo el brazo.
+- **[[Aida Cambar, Cathlette Camber y Oskar Ninebough|Aida Cambar]] (40), [[Aida Cambar, Cathlette Camber y Oskar Ninebough|Cathlette Camber]] (45) y [[Aida Cambar, Cathlette Camber y Oskar Ninebough|Oskar Ninebough]] (45):** Arquitectos de las murallas (Humanos). Gente fornida, de manos encallecidas y planos bajo el brazo.
     
-- **[[Kebble]] (Elfo, ~150 años):** Zapatero remendón. Movimientos lentos pero precisos, manos nudosas. Ayudado por el humano maduro _Suss (50)_ y los jóvenes _Lucian (Semielfo, 22)_ y _Gracier (Humano, 20)_.
+- **[[Kebble, Suss, Lucian y Gracier|Kebble]] (Elfo, ~150 años):** Zapatero remendón. Movimientos lentos pero precisos, manos nudosas. Ayudado por el humano maduro _Suss (50)_ y los jóvenes _Lucian (Semielfo, 22)_ y _Gracier (Humano, 20)_.
     
-- **[[Hester]] (Humana, 38 años):** Alfarera. Lleva siempre un delantal manchado de arcilla húmeda. Ayudada por _Vamendor_ y _Durk_.
+- **[[Hester, Vamendor y Durk]] (Humana, 38 años):** Alfarera. Lleva siempre un delantal manchado de arcilla húmeda. Ayudada por _Vamendor_ y _Durk_.
     
-- **[[Lanar]] (Humano, 45 años):** Curtidor (ex-minero). Tiene tos crónica y su ropa apesta a químicos. Trabaja con sus hijos adolescentes (_Lanar Jr., Lanar III, Lanar IV_). Sus vecinos son **Ralan (40)**, **Abigail (38)** y sus tres niñas.
+- **[[Lanar|Lanar]] (Humano, 45 años):** Curtidor (ex-minero). Tiene tos crónica y su ropa apesta a químicos. Trabaja con sus hijos adolescentes (_Lanar Jr., Lanar III, Lanar IV_). Sus vecinos son **Ralan (40)**, **Abigail (38)** y sus tres niñas.
     
-- **[[Thorn]] (Humano, 42 años):** Carnicero local. Un hombre enorme, de cara enrojecida y mandil ensangrentado. Su esposa es **Rosaline (40)** y su hija es _Lucia (Cuarto de elfa, 18)_, de rasgos muy delicados.
+- **[[Thorn|Thorn]] (Humano, 42 años):** Carnicero local. Un hombre enorme, de cara enrojecida y mandil ensangrentado. Su esposa es **[[Thorn|Rosaline]] (40)** y su hija es _[[Thorn|Lucia]] (Cuarto de elfa, 18)_, de rasgos muy delicados.
     
 - **[[Winneth Maybell]] (Humana, 35 años):** Encargada de establos. Viste de cuero desgastado y siempre mastica paja. Lidera a cinco jóvenes mozos de cuadra.
     
@@ -273,11 +273,11 @@ _(Bajo el mando directo de la Capitana Alana Hallwinter. Esta fuerza se encarga 
 * **Rumores de Taberna:** `#rumor`
   * *Rumor 1:* "Dicen que el dragón blanco ha destrozado una caravana de Barthen en la montaña."
   * *Rumor 2:* "El primo de Harbin Wester roba de las arcas, lo veo en sus ojillos de cerdo."
-  * *Rumor 3:* "Los mercenarios de Invernio (Mintarn) están rondando los caminos... y cobrando sus propios impuestos."
+  * *Rumor 3:* "Los mercenarios de Nuncainvierno (Mintarn) están rondando los caminos... y cobrando sus propios impuestos."
 
 ---
 ### ⚙️ Notas del Dungeon Master
-* **Historia / Lore:** `#lore` Tras sobrevivir a los Marca Roja y a la crisis del Obelisco Falla-Mentes, Phandalin recibió inyecciones de capital masivas de Invernio y del clan Buscarrocas. Sildar tomó el mando y militarizó el pueblo por miedo a perder lo reconstruido.
+* **Historia / Lore:** `#lore` Tras sobrevivir a los Marca Roja y a la crisis del Obelisco Falla-Mentes, Phandalin recibió inyecciones de capital masivas de Nuncainvierno y del clan Buscarrocas. Sildar tomó el mando y militarizó el pueblo por miedo a perder lo reconstruido.
 * **Eventos Actuales / "Relojes":** * El Culto de Talos (Anacoretas) se está reuniendo en el bosque cercano.
   * Un Dragón Blanco (*Cryovain*) acaba de llegar a la región y el miedo empieza a cundir entre los proveedores.
   * Quedan **10 días** para que aparezca el cuerpo del amigo de Nico ahorcado.
